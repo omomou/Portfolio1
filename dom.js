@@ -18,5 +18,3 @@ function changeColors() {
     container.style.backgroundColor = "#fff"; 
     container.style.color = "#333"; 
 }
-
-changeColors();
