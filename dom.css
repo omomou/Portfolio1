@@ -1,0 +1,16 @@
+body {
+    background-color: #e0e0e0; 
+    margin: 0;
+}
+
+#container {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#container p {
+    margin: 10px 0; 
+    
+}
